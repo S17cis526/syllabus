@@ -72,6 +72,11 @@ Further, we will be embracing problem-based cooperative learning approaches at t
 ### Resources
 While there is not an assigned textbook for this course, there are a number of extremely helpful resources you will want to use.
 
+#### Github Classroom
+We will be using the Github Classroom to for obtaining starter code and submitting assignments.  The classroom can be reached here: [https://classroom.github.com/classrooms/25181973-k-state-spring-17-cis-526-class](https://classroom.github.com/classrooms/25181973-k-state-spring-17-cis-526-class).
+
+If you have not yet, I strongly encourage you to sign up with Github as a student: [https://education.github.com/](https://education.github.com/).
+
 #### Safari Online
 K-State libraries has obtained a Safari Books Online library containing over 6k current titles.  You can access this collection using your eid and password here: [http://proquestcombo.safaribooksonline.com.er.lib.k-state.edu](http://proquestcombo.safaribooksonline.com.er.lib.k-state.edu)
 
